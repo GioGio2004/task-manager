@@ -2,11 +2,11 @@
 import smtplib
 
 
-password = "ccswdzaepdufubcd"
+password = ""
 
 
-email = "giokhvichia69@gmail.com"
-reciever_email = "girogi.khvichia18@gmail.com"
+email = ""
+reciever_email = ""
 subject = ""
 message = ""
 
